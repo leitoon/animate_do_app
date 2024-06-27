@@ -1,16 +1,7 @@
 # animate_do_app
 
-A new Flutter project.
+Created app to practice difference animation and styles to page. Every day improve my know about hashtag#flutter hashtag#dart hashtag#animation
 
-## Getting Started
+## Video
+https://github.com/leitoon/animate_do_app/assets/43183222/eaf9bd67-609b-4046-b919-056d8f8681fc
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
